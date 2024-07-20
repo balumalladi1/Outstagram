@@ -1,0 +1,65 @@
+.myprofile-section-container{
+    margin-left:10%;
+    margin-right:10%;
+    font-family: "Roboto";
+    display: flex;
+    flex-direction: column;
+}
+
+.para{
+    font-weight: 500;
+    padding-left:30px;
+}
+
+.image-posts-section-inside {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    margin-left:10%;
+    margin-right:10%;
+}
+.images1 img{
+    border-radius:50%;
+    width:120px;
+}
+
+.img-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap:20px;
+}
+
+.img-section1{
+    width: 150px;
+}
+
+.img-section1  img {
+    width:100px;
+}
+
+.img-section2 p{
+    font-weight:bold;
+}
+
+.line-1{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.image-posts-section-inside2 {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    margin-left:10%;
+    margin-right:10%;
+}
+.images2 img{
+    width:200px;   
+}
+
+.para1{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: "Roboto";
+}

@@ -1,0 +1,23 @@
+.stories-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right:10%;
+    margin-top:10px;
+    gap:10px;
+}
+
+.sub-stories-container img{
+    border-radius: 50%;
+    width:80px;
+    align-self: center;
+    padding-left:5px;
+}
+
+.sub-stories-container p{
+    font-size:14px;
+    font-weight:normal;
+    font-family: "Roboto";
+    align-self: center;
+}

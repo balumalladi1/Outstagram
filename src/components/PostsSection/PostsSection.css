@@ -1,0 +1,48 @@
+.posts-container{
+    margin-left:15%;
+    margin-right: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap:10px;
+    margin:10px;
+}
+
+.user-details img{
+    border-radius:50%;
+    width:70px;
+}
+.user-details p{
+    font-family: "Roboto";
+    font-size:14px;
+}
+
+.post-images img{
+    width:60vw;
+    height:60vh;
+}
+
+.icons-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap:10px;
+    margin-top:10px;
+    margin-left:30px;
+}
+.icons{
+    width:25px;
+    height:30px;
+}
+
+.like-container{
+    gap:10px;
+    margin-left:30px;
+    font-family: "Roboto";
+}
+
